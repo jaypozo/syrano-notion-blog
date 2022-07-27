@@ -50,7 +50,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Try Syrano ❤️',
-      url: 'https://syrano.ai/long-profiles'
+      url: 'https://app.syrano.ai/'
     },
     {
       title: 'About',
